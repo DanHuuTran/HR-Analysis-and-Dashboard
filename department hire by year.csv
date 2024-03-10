@@ -1,0 +1,271 @@
+﻿2000,33,Accounting
+2000,10,Product Management
+2000,5,Marketing
+2000,1,Auditing
+2000,7,Research and Development
+2000,17,Services
+2000,16,Business Development
+2000,16,Human Resources
+2000,9,Support
+2000,4,Legal
+2000,62,Engineering
+2000,20,Training
+2000,20,Sales
+2001,82,Business Development
+2001,4,Auditing
+2001,27,Marketing
+2001,43,Support
+2001,352,Engineering
+2001,9,Legal
+2001,175,Accounting
+2001,38,Product Management
+2001,75,Services
+2001,83,Sales
+2001,61,Research and Development
+2001,92,Human Resources
+2001,81,Training
+2002,2,Auditing
+2002,91,Business Development
+2002,82,Human Resources
+2002,22,Marketing
+2002,33,Product Management
+2002,52,Research and Development
+2002,83,Services
+2002,166,Accounting
+2002,82,Sales
+2002,10,Legal
+2002,306,Engineering
+2002,40,Support
+2002,98,Training
+2003,90,Human Resources
+2003,99,Business Development
+2003,98,Sales
+2003,44,Support
+2003,24,Marketing
+2003,84,Training
+2003,85,Services
+2003,42,Research and Development
+2003,3,Auditing
+2003,173,Accounting
+2003,14,Legal
+2003,27,Product Management
+2003,359,Engineering
+2004,84,Training
+2004,109,Sales
+2004,105,Human Resources
+2004,68,Services
+2004,28,Product Management
+2004,13,Legal
+2004,53,Support
+2004,338,Engineering
+2004,30,Marketing
+2004,82,Business Development
+2004,54,Research and Development
+2004,166,Accounting
+2004,5,Auditing
+2005,91,Training
+2005,48,Support
+2005,307,Engineering
+2005,96,Services
+2005,54,Research and Development
+2005,43,Product Management
+2005,23,Legal
+2005,77,Sales
+2005,168,Accounting
+2005,99,Human Resources
+2005,14,Marketing
+2005,76,Business Development
+2005,1,Auditing
+2006,39,Support
+2006,33,Product Management
+2006,164,Accounting
+2006,18,Legal
+2006,365,Engineering
+2006,69,Services
+2006,58,Research and Development
+2006,3,Auditing
+2006,89,Training
+2006,19,Marketing
+2006,107,Human Resources
+2006,80,Sales
+2006,74,Business Development
+2007,145,Accounting
+2007,21,Marketing
+2007,46,Research and Development
+2007,80,Business Development
+2007,4,Auditing
+2007,86,Services
+2007,81,Training
+2007,42,Support
+2007,27,Product Management
+2007,354,Engineering
+2007,17,Legal
+2007,98,Sales
+2007,89,Human Resources
+2008,4,Auditing
+2008,26,Marketing
+2008,77,Human Resources
+2008,83,Business Development
+2008,32,Product Management
+2008,322,Engineering
+2008,157,Accounting
+2008,12,Legal
+2008,96,Sales
+2008,91,Training
+2008,59,Research and Development
+2008,91,Services
+2008,58,Support
+2009,81,Business Development
+2009,1,Auditing
+2009,93,Sales
+2009,78,Human Resources
+2009,26,Marketing
+2009,79,Training
+2009,186,Accounting
+2009,96,Services
+2009,57,Research and Development
+2009,56,Support
+2009,36,Product Management
+2009,335,Engineering
+2009,16,Legal
+2010,68,Business Development
+2010,96,Human Resources
+2010,51,Support
+2010,16,Legal
+2010,101,Sales
+2010,32,Product Management
+2010,320,Engineering
+2010,87,Training
+2010,3,Auditing
+2010,52,Research and Development
+2010,99,Services
+2010,17,Marketing
+2010,157,Accounting
+2011,87,Sales
+2011,63,Services
+2011,64,Research and Development
+2011,78,Training
+2011,92,Human Resources
+2011,51,Support
+2011,18,Legal
+2011,345,Engineering
+2011,31,Product Management
+2011,166,Accounting
+2011,72,Business Development
+2011,1,Auditing
+2011,33,Marketing
+2012,31,Product Management
+2012,46,Support
+2012,17,Legal
+2012,60,Research and Development
+2012,80,Training
+2012,85,Services
+2012,355,Engineering
+2012,164,Accounting
+2012,25,Marketing
+2012,77,Human Resources
+2012,79,Sales
+2012,79,Business Development
+2012,5,Auditing
+2013,27,Product Management
+2013,348,Engineering
+2013,17,Legal
+2013,145,Accounting
+2013,1,Auditing
+2013,82,Services
+2013,56,Research and Development
+2013,49,Support
+2013,23,Marketing
+2013,81,Training
+2013,75,Business Development
+2013,104,Human Resources
+2013,97,Sales
+2014,24,Marketing
+2014,181,Accounting
+2014,6,Auditing
+2014,71,Business Development
+2014,78,Training
+2014,33,Product Management
+2014,38,Support
+2014,13,Legal
+2014,47,Research and Development
+2014,315,Engineering
+2014,79,Human Resources
+2014,81,Sales
+2014,87,Services
+2015,1,Auditing
+2015,97,Human Resources
+2015,13,Marketing
+2015,83,Business Development
+2015,165,Accounting
+2015,302,Engineering
+2015,88,Training
+2015,69,Services
+2015,13,Legal
+2015,54,Research and Development
+2015,91,Sales
+2015,54,Support
+2015,29,Product Management
+2016,92,Human Resources
+2016,89,Training
+2016,86,Business Development
+2016,26,Marketing
+2016,86,Sales
+2016,56,Research and Development
+2016,29,Product Management
+2016,15,Legal
+2016,106,Services
+2016,61,Support
+2016,318,Engineering
+2016,158,Accounting
+2017,73,Human Resources
+2017,33,Product Management
+2017,39,Support
+2017,309,Engineering
+2017,24,Legal
+2017,83,Training
+2017,94,Business Development
+2017,58,Research and Development
+2017,84,Services
+2017,1,Auditing
+2017,94,Sales
+2017,170,Accounting
+2017,29,Marketing
+2018,86,Training
+2018,93,Services
+2018,56,Research and Development
+2018,45,Support
+2018,98,Sales
+2018,15,Legal
+2018,36,Product Management
+2018,350,Engineering
+2018,180,Accounting
+2018,81,Human Resources
+2018,81,Business Development
+2018,26,Marketing
+2019,332,Engineering
+2019,14,Legal
+2019,165,Accounting
+2019,76,Services
+2019,43,Research and Development
+2019,67,Training
+2019,33,Marketing
+2019,38,Support
+2019,27,Product Management
+2019,88,Human Resources
+2019,101,Business Development
+2019,97,Sales
+2019,2,Auditing
+2020,31,Marketing
+2020,149,Accounting
+2020,4,Auditing
+2020,48,Research and Development
+2020,76,Services
+2020,26,Product Management
+2020,85,Sales
+2020,50,Support
+2020,292,Engineering
+2020,13,Legal
+2020,68,Business Development
+2020,93,Human Resources
+2020,77,Training
